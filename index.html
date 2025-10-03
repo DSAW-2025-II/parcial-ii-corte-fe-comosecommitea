@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokedex App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Pokédex Parcial</h1>
+
+  
+  <section class="login-section">
+    <h2>Iniciar Sesión</h2>
+    <input type="text" id="email" placeholder="Correo electrónico">
+    <input type="password" id="password" placeholder="Contraseña">
+    <button id="btnLogin">Login</button>
+    <p id="login-msg"></p>
+  </section>
+
+  <hr>
+
+  
+  <section class="search-section">
+    <h2>Buscar Pokémon</h2>
+    <input type="text" id="pokemonName" placeholder="Ej: pikachu">
+    <button id="btnSearch">Buscar</button>
+    <div id="pokemon-result" class="result-box"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
