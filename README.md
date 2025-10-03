@@ -3,7 +3,7 @@
 Nombre: Samuel Fernando Escobar Polanco
 ID: 0000354769
 URL:http://localhost:3000
-
+link: https://dsaw-2025-ii.github.io/parcial-ii-corte-fe-comosecommitea/
 Vas a construir una **arquitectura de tres capas**:
 
 1. **Frontend (FE) (se recomienda trabajar todo sobre index.html para evitar problemas con las URLs en el FE)**  
